@@ -11,7 +11,7 @@ use GuzzleHttp\Client;
     $link = $link;
     
     //TOKENS E IDS
-    $access_token = 'AQXYYWVnh0AjVRUlJUES4mhILp40Mju7mnJMB8S_6AkTeohhmIQkkjqjNED8HURro8IKR6iGp0kZJWsuNFm7UNFt0vOaO5Iok6sGaJQjCjNeMesbp2NoRHApNZW-e9g6a34GJn39Xg5t8MKKw0h4K3pquWfuxTtS78GBDJILlJDRlCW7peneOUA9RbrB7WQ5WOU7mu-AsKIpSa04fhmyJA1lEc2_iFoEmspaYFg6YBDr4fa6NcAhUHv1Ii_hUZtqz8qTGeqNTqFUTXHaYgUfiFZSbRBrCoyMaEYzRHyoLlNSBDzgxb0uto0tFarDveMAc5tEd6dXcGvfwlrhkmLWzUZ8bhHcuw'; //token de acesso do Linkedin
+    $access_token = 'Rro8IKR6iGp0kZJWsuNFm7UNFt0vOaO5Iok6sGaJQjCjNeMesbp2NoRHApNZW-e9g6a34GJn39Xg5t8MKKw0h4K3pquWfuxTtS78GBDJILlJDRlCW7peneOUA9RbrB7WQ5WOU7mu-AsKIpSa04fhmyJA1lEc2_iFoEmspaYFg6YBDr4fa6NcAhUHv1Ii_hUZtqz8qTGeqNTqFUTXHaYgUfiFZSbRBrCoyMaEYzRHyoLlNSBDzgxb0uto0tFarDveMAc5tEd6dXcGvfwlrhkmLWzUZ8bhHcuw'; //token de acesso do Linkedin
     $linkedin_id = 's_n0Kaiznj'; //Linkedin ID PROFILE
 
     $body = new \stdClass();
